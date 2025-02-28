@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// Mariam Omer
+// Mariam Omer HW2
 void main() {
   runApp(CalculatorApp());
 }
